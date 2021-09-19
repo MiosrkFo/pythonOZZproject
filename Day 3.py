@@ -8,5 +8,6 @@ elif score >= 60:
     grade = 'C'
 else:
     grade = 'D'
+# Check grade
 
 print('Your level is:', grade, 'Good luck next time!')  # Print grade
